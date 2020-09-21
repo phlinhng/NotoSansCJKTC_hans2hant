@@ -20,24 +20,22 @@ Noto Sans CJK TC  截取裡面的各種字重字體制作簡轉繁 <br>
 檔案下載: http://www.mediafire.com/file/r6rzktu9trkxp0x/NotoSansCJKtc_CHS2CHT_V.05.6.ZIP <br>
 檔案短網址: https://tinyurl.com/ybc9j3pg <br>
 MD5SUM: 620fb09f902ab9aadd2053f27cc1cf9f <br>
-## NotoSansCJKtc_CHS2CHT_V.05.6.ZIP <br>
-> 壓縮檔內容:
-> -- \紅米note4\fonts.xml (紅米note4 miui 8.2 適用的fonts.xml)
-> -- \ NotoSansCJKtc-Bold.ttf
-> -- \NotoSansCJKtc-DemiLight.ttf
-> -- \NotoSansCJKtc-Light.ttf
-> -- \NotoSansCJKtc-Medium.ttf
-> -- \NotoSansCJKtc-Regular.ttf
-> -- \NotoSansCJKtc-Thin.ttf
->
-> -- \NotoSansMonoCJKtc-Bold.ttf    (Mono字型用 不用複製進去)
-> -- \NotoSansMonoCJKtc-Regular.ttf (Mono字型用 不用複製進去)
-<br>
-## 使用方法 以下兩種方法 選一種. <br>
+## NotoSansCJKtc_CHS2CHT_V.05.6.ZIP
+> 壓縮檔內容: <br>
+> -- \紅米note4\fonts.xml (紅米note4 miui 8.2 適用的fonts.xml) <br>
+> -- \ NotoSansCJKtc-Bold.ttf <br> <br>
+> -- \NotoSansCJKtc-DemiLight.ttf <br>
+> -- \NotoSansCJKtc-Light.ttf <br>
+> -- \NotoSansCJKtc-Medium.ttf <br>
+> -- \NotoSansCJKtc-Regular.ttf <br>
+> -- \NotoSansCJKtc-Thin.ttf <br>
+> <br>
+> -- \NotoSansMonoCJKtc-Bold.ttf    (Mono字型用 不用複製進去) <br>
+> -- \NotoSansMonoCJKtc-Regular.ttf (Mono字型用 不用複製進去) <br>
+## 使用方法 以下兩種方法 選一種.
 第二種方法 多重字重 比較美一些 <br>
 服用前請先備份你原有的手機字型等設定.發生意外無法幫到你 <br>
 壓縮檔案內的字型及fonts.xml 放入手機系統的權限 皆要修改為644, 三讀一寫 <br>
-<br>
 ### 方法1.
 請先備份好自己舊有字型.及自行 google了解如何替換字型.. <br>
 字型檔案較大.更改成跟你裡面顯示的中文字型檔案名一樣.覆蓋 <br>
