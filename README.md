@@ -65,6 +65,6 @@ ko      韓文 <br>
 <br>
 **wegight 是字型的大小,後面指定用那個字型檔案顯示** <br>
 ## 顯示預覽 此為將所有字型檔案塞進去裡面
-!()[Qc4pdhN.png]
-!()[Sq0fhow.png]
-!()[Jp90WCl.png]
+![](Qc4pdhN.png)
+![](Sq0fhow.png)
+![](Jp90WCl.png)
