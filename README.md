@@ -51,7 +51,7 @@ Thin - Light- DemiLight- Regular- Medium- Bold  - Black <br>
 (2)修改 /system/etc/fonts.xml <br>
 增加插入類似以下圖片內容,圖片編輯器有顏色較容易看 <br>
 詳細可以google看看如何修改 <br>
-http://i.imgur.com/VcRC2pr.png <br>
+![](VcRC2pr.png)
 <br>
 或是看一下壓縮檔內的fonts.xml 但不要用這個去覆蓋到你手機<br>
 不見得合用於你的手機系統.<br>
@@ -65,6 +65,6 @@ ko      韓文 <br>
 <br>
 **wegight 是字型的大小,後面指定用那個字型檔案顯示** <br>
 ## 顯示預覽 此為將所有字型檔案塞進去裡面
-http://i.imgur.com/Qc4pdhN.png
-http://i.imgur.com/Sq0fhow.png
-http://i.imgur.com/Jp90WCl.png
+!()[Qc4pdhN.png]
+!()[Sq0fhow.png]
+!()[Jp90WCl.png]
