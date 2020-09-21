@@ -23,7 +23,7 @@ MD5SUM: 620fb09f902ab9aadd2053f27cc1cf9f <br>
 ## NotoSansCJKtc_CHS2CHT_V.05.6.ZIP
 > 壓縮檔內容: <br>
 > -- \紅米note4\fonts.xml (紅米note4 miui 8.2 適用的fonts.xml) <br>
-> -- \ NotoSansCJKtc-Bold.ttf <br> <br>
+> -- \NotoSansCJKtc-Bold.ttf <br>
 > -- \NotoSansCJKtc-DemiLight.ttf <br>
 > -- \NotoSansCJKtc-Light.ttf <br>
 > -- \NotoSansCJKtc-Medium.ttf <br>
@@ -36,19 +36,19 @@ MD5SUM: 620fb09f902ab9aadd2053f27cc1cf9f <br>
 第二種方法 多重字重 比較美一些 <br>
 服用前請先備份你原有的手機字型等設定.發生意外無法幫到你 <br>
 壓縮檔案內的字型及fonts.xml 放入手機系統的權限 皆要修改為644, 三讀一寫 <br>
-### 方法1.
+### 方法1
 請先備份好自己舊有字型.及自行 google了解如何替換字型.. <br>
 字型檔案較大.更改成跟你裡面顯示的中文字型檔案名一樣.覆蓋 <br>
 請注意自己/system/fonts是否可以放置進去 <br>
-### 方法2.
-(1)將壓縮檔內的字型.除了Mono字型以外的, <br>
+### 方法2
+(1) 將壓縮檔內的字型.除了Mono字型以外的, <br>
 都放進去你的手機 /system/fonts/ <br>
 全放進去要約 116mb,若你裡面空間沒那樣大,可以選擇 <br>
 看要放幾個字型放進去. <br>
 這是字的粗細大小順序 ,由小至大. <br>
 Thin - Light- DemiLight- Regular- Medium- Bold  - Black <br>
 <br>
-(2)修改 /system/etc/fonts.xml <br>
+(2) 修改 /system/etc/fonts.xml <br>
 增加插入類似以下圖片內容,圖片編輯器有顏色較容易看 <br>
 詳細可以google看看如何修改 <br>
 ![](VcRC2pr.png)
